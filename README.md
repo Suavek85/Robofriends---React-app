@@ -1,9 +1,7 @@
-Robofriends - simple React App - using:
+Robofriends - simple React App:
 
-- Tachyons CSS framework,
+- from: "The Complete Web Developer in 2018: Zero to Mastery" by Andrei Neagoie
 
-- RoboHash API https://robohash.org/, 
-
-- Jsonplaceholder API https://jsonplaceholder.typicode.com/users
+- using: Tachyons CSS framework, RoboHash API https://robohash.org/, Jsonplaceholder API https://jsonplaceholder.typicode.com/users
 
 
